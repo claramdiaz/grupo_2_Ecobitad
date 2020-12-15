@@ -2,7 +2,7 @@ Acerca del proyecto:
 El sitio fue diseñado para la venta de productos sustentables y amigables con el medioambiente. 
 
 Acerca del nombre del proyecto:
-Ecobitad es un término que contiene dos conceptos esenciales del proyecto; "eco" el cual refiere al ecosistema y a la ecología, y "hábitad", referenciando al espacio y componentes que compartimos los seres vivos.
+Ecobitad es un término que contiene dos conceptos esenciales del proyecto; "eco" el cual refiere al ecosistema y a la ecología; y "hábitad", referenciando al espacio y componentes que compartimos los seres vivos.
 
 Público Objetivo: 
 Apunta principalmente a clientes que buscan reemplazar productos de uso diario poco sustentables por otros que generen menos residuos o sean biodegradables.
