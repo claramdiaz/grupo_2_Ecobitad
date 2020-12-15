@@ -20,11 +20,11 @@ https://www.figma.com/file/Yj6jBdLR8hw49Y2i7OjXeO/Wireframes?node-id=23%3A92
 
 
 Paginas de Referencia:
-- https://www.reconsciente.com/
-- https://ecolisitamarket.mitiendanube.com/
-- https://ecoroots.us/
-- https://www.2cool.com.ar/
-- https://sabelatierra.com/
+- https://www.reconsciente.com/  --> Esta página es la más alineada a nuestra marca en cuanto a sus colores, estética, diseño de la página, distribución de la información y funcionalidad. No obstante, las fotos de los productos tienen cierto tinte artístico que denota la belleza del producto, presentándolo en un lindo escenario.
+- https://ecolisitamarket.mitiendanube.com/  --> Ofrece información sobre prácticas y hábitos que colaboran con el medio ambiente, ej. cómo hacer compost.
+- https://ecoroots.us/  --> Es una propuesta distinta a la de Ecobitad en cuanto al Look & Feel de la marca y página, pero sus productos son interesantes.
+- https://www.2cool.com.ar/  --> Ofrece productos con diseño, agradables a la vista, con estilo y con lindos colores.
+- https://sabelatierra.com/  --> Es uno de las primeras iniciativas de tipo marketplace físico, luego creó su e-commerce. Tiene gran variedad de productos y de buena relación precio/calidad.
 
 
 Paleta de colores: 
